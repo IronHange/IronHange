@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IronHange
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 📫 How to reach me <stay tuned>
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-bilea
